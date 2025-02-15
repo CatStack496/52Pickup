@@ -1,5 +1,5 @@
 # 52 Pickup
-I created this website in roughly about a day back in my senior year of highschool.
+I created this website in roughly about a day back in my senior year of highschool (with a tiny touchups committed later on).
 This game was to show I had an understanding of how to write javascript, css, and html, all of which I had already taken a clas for at the time. I just wanted to push myself and have a little fun overengineering a simple assignment.
 
 This game features the game of 52 pickup... some of you may know what im talking about if you have had pranksters in your life.
